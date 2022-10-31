@@ -11,9 +11,9 @@
 }
 
 .hero .image-hero {
-  max-height: 210px;
+  height: 210px;
   order: 0;
-  display: flex;
+  display: grid;
   justify-content: end;
 }
 .hero .image-hero img {
