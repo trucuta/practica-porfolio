@@ -13,8 +13,8 @@
 .hero .image-hero {
   height: 210px;
   order: 0;
-  display: grid;
-  justify-content: end;
+  display: flex;
+  justify-content: flex-end;
 }
 .hero .image-hero img {
   height: 100%;
